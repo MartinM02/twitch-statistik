@@ -1,6 +1,6 @@
 # Deutsche League-of-Legends-Streams auf Twitch
 
-Letzte Messung: **19.07.2026, 14:40 Uhr** - 190 Streams, 13.947 Zuschauer
+Letzte Messung: **19.07.2026, 16:16 Uhr** - 203 Streams, 11.839 Zuschauer
 
 > Noch wenig Daten gesammelt - die Werte werden mit jedem Tag aussagekraeftiger.
 
@@ -27,7 +27,7 @@ Letzte Messung: **19.07.2026, 14:40 Uhr** - 190 Streams, 13.947 Zuschauer
 | 13:00 | 106 | 4.596 | 43,5 |
 | 14:00 | 118 | 6.697 | 56,7 |
 | 15:00 | 170 | 5.588 | 32,9 |
-| 16:00 | 130 | 4.935 | 37,8 |
+| 16:00 | 145 | 6.316 | 43,6 |
 | 17:00 | 150 | 6.439 | 42,9 |
 | 18:00 | 184 | 8.416 | 45,6 |
 | 19:00 | 217 | 12.121 | 55,8 |
@@ -37,4 +37,4 @@ Letzte Messung: **19.07.2026, 14:40 Uhr** - 190 Streams, 13.947 Zuschauer
 | 23:00 | 205 | 8.914 | 43,6 |
 
 ---
-_94 Messungen im Abstand von ca. 15 Minuten, Zeitraum 13.07.2026 bis 19.07.2026. Alle Zeiten in deutscher Zeit._
+_95 Messungen im Abstand von ca. 15 Minuten, Zeitraum 13.07.2026 bis 19.07.2026. Alle Zeiten in deutscher Zeit._
